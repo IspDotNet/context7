@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.3.10
+
+### Patch Changes
+
+- 89d4862: Use GITHUB_TOKEN/GH_TOKEN or gh CLI auth for skill downloads to avoid GitHub API rate limits and support private repos
+
 ## 0.3.9
 
 ### Patch Changes
